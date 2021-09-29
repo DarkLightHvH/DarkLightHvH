@@ -9,8 +9,7 @@ you can make it.py
 import tkinter
 
 top = tk.Tk()
-
-text = tk.Text(top)
+top.mainloop()
 
 
 <!---
